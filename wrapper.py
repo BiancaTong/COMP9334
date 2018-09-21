@@ -1,6 +1,5 @@
 """
-Name: Bingxin Tong
-zid:  z5093617
+Name: Bianca Tong
 
 This code is written for COMP9334 Project, using Python3.5.
 
